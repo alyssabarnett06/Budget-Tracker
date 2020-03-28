@@ -11,3 +11,5 @@ The Budget Tracker is progessive web application that allows you to add and subt
 ![Demo](./budgetVid.gif)
 
 ![ Demo](./budget.png)
+
+![ Demo](./terminal.png)
